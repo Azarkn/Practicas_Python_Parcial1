@@ -1,0 +1,3 @@
+print ('Escribe un numero')#en la consola muestra en mensaje / in the console it shows a message
+a= input(('Escribe un numero'))#aqui se guardara la informacion escrita en ese apartado / the information written in that section will be saved here.
+print (a)# aqui imprimira y mostrara en la pantalla lo que esta escrito en la variable "a" / here it will print and display on the screen what is written in the variable "a"
